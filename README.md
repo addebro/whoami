@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @addebror
+- 👋 Hi, I’m @addebro
 - 👀 I’m interested in IT-security.
 - 🌱 I’m currently studying IT-security at Halmstad University in Sweden.
 
